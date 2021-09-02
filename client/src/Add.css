@@ -1,0 +1,47 @@
+.inputbox1
+{
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 4px solid rgb(133, 158, 133);
+    background-color: rgb(197, 199, 197);
+    width: 100%;
+}
+.inputbox
+{
+    margin-bottom: 20px;
+    width: 100%;
+    border:4px solid rgb(133, 158, 133);
+    border-radius: 8px;
+    height: 60px;
+    background-color: rgb(197, 199, 197);
+}
+.in
+{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+.bt
+{
+    width: 100%;
+}
+.bt1
+{
+    width: 50%;
+    height: 40px;
+}
+.bt2
+{
+    margin-top: 10px;
+    width: 100%;
+    height: 40px;
+}
+.s1
+{
+    margin-bottom: 30px;
+    border-radius: 8px;
+    border: 2px solid rgb(197, 199, 197);
+    background-color: rgb(197, 199, 197);
+    width: 100%;
+    height:60px;
+}
